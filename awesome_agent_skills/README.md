@@ -61,6 +61,12 @@ Each skill contains:
 | [meeting-notes](meeting-notes/) | Structured meeting summaries with action items |
 | [decision-helper](decision-helper/) | Structured decision-making frameworks |
 
+### 🎬 Creative
+
+| Skill | Description |
+|-------|-------------|
+| [lemo-opuscar](lemo-opuscar/) | Direct and produce short films made entirely in code, in 59 styles (by [LemoLab](https://github.com/lemomo-ai/lemo-opuscar)) |
+
 ## Installation
 
 ### Using npx (Recommended)

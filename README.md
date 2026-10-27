@@ -248,7 +248,7 @@ streamlit run travel_agent.py
 *   [♾️ Self-Improving Agent Skills](awesome_agent_skills/self-improving-agent-skills/) - Automatically optimize agent skills using Gemini and ADK
 
 <details>
-<summary><strong>📋 Browse all 19 skills</strong></summary>
+<summary><strong>📋 Browse all 20 skills</strong></summary>
 
 | Skill | Description |
 |---|---|
@@ -259,6 +259,7 @@ streamlit run travel_agent.py
 | [🐛 Debugger](awesome_agent_skills/debugger/) | Systematic bug hunting and root-cause analysis |
 | [🤔 Decision Helper](awesome_agent_skills/decision-helper/) | Structured decision frameworks and trade-off analysis |
 | [🔬 Deep Research](awesome_agent_skills/deep-research/) | Multi-source research with synthesis |
+| [🎬 Lemo-Opuscar](awesome_agent_skills/lemo-opuscar/) | Short films made entirely in code, in 59 styles |
 | [📝 Editor](awesome_agent_skills/editor/) | Proofreading, style, and clarity improvements |
 | [📧 Email Drafter](awesome_agent_skills/email-drafter/) | Professional email composition |
 | [✅ Fact Checker](awesome_agent_skills/fact-checker/) | Claim verification and source validation |
