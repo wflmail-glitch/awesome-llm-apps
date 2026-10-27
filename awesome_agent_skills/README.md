@@ -21,6 +21,7 @@ Each skill contains:
 | [code-reviewer](code-reviewer/) | Thorough code review with security and performance focus |
 | [debugger](debugger/) | Systematic debugging and root cause analysis |
 | [fullstack-developer](fullstack-developer/) | Modern web development (React, Node.js, databases) |
+| [karpathy-guidelines](karpathy-guidelines/) | Behavioral guidelines against common LLM coding mistakes (Andrej Karpathy) |
 
 ### 🔍 Research
 
